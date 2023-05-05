@@ -6,3 +6,7 @@
 - Another line for merge conflicts.
 
 - Again, will do merge conflict.
+
+- This line is added from github.
+
+- Let's check if this change can be viewed in the differences in git bash itself.
