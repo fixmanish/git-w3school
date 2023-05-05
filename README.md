@@ -12,3 +12,4 @@
 - Let's check if this change can be viewed in the differences in git bash itself.
 
 - This time will add commits too.
+- This time will use pull command to updae our local repository there.
