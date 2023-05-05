@@ -13,3 +13,5 @@
 
 - This time will add commits too.
 - This time will use pull command to updae our local repository there.
+
+- Pushing changes from the local repository to the remote repository i.e GitHub.
