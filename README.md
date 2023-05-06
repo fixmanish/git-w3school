@@ -19,3 +19,5 @@
 - Doing changes from other branch in github
 
 - Commiting chnges from there actually
+
+- Changes made for the third branch(created via the git bash itself)
