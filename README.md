@@ -15,3 +15,7 @@
 - This time will use pull command to updae our local repository there.
 
 - Pushing changes from the local repository to the remote repository i.e GitHub.
+
+- Doing changes from other branch in github
+
+- Commiting chnges from there actually
